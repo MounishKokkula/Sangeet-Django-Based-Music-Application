@@ -24,7 +24,7 @@ A basic Django Music Application with
 # My Songs
 ### Once songs are added to an album you are then able to view them.
 ![alt text](https://github.com/MounishKokkula/Sangeet-A-Django-Music-Application/blob/master/linkinpar.PNG)
-
+![alt text](https://github.com/MounishKokkula/Sangeet-A-Django-Music-Application/blob/master/coldplay.PNG)
 # Searching
 ### You can also search for music using the search feature at the top of every page. Any relevant albums will appear at the top of the results page, and the results for individual songs will appear below.
 Yet to be implemented
