@@ -1,4 +1,4 @@
-# Sangeet-A-Django-Music-Application
+# Sangeet-Django-Based-Music-Application
 
 A basic Django Music Application with 
 1) Administrator
